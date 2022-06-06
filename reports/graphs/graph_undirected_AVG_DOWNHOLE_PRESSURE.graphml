@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="double"/>
+<graph edgedefault="undirected"><node id="15/9-F-11"/>
+<node id="15/9-F-1 C"/>
+<node id="15/9-F-12"/>
+<node id="15/9-F-14"/>
+<node id="15/9-F-15"/>
+<node id="15/9-F-15 D"/>
+<edge source="15/9-F-11" target="15/9-F-1 C">
+  <data key="d0">0.1</data>
+</edge>
+<edge source="15/9-F-11" target="15/9-F-12">
+  <data key="d0">0.41</data>
+</edge>
+<edge source="15/9-F-11" target="15/9-F-14">
+  <data key="d0">0.13</data>
+</edge>
+<edge source="15/9-F-11" target="15/9-F-15 D">
+  <data key="d0">0.23</data>
+</edge>
+<edge source="15/9-F-1 C" target="15/9-F-14">
+  <data key="d0">0.16</data>
+</edge>
+<edge source="15/9-F-1 C" target="15/9-F-15 D">
+  <data key="d0">0.15</data>
+</edge>
+<edge source="15/9-F-12" target="15/9-F-14">
+  <data key="d0">0.24</data>
+</edge>
+<edge source="15/9-F-12" target="15/9-F-15">
+  <data key="d0">0.39</data>
+</edge>
+<edge source="15/9-F-14" target="15/9-F-15">
+  <data key="d0">0.11</data>
+</edge>
+<edge source="15/9-F-14" target="15/9-F-15 D">
+  <data key="d0">0.21</data>
+</edge>
+</graph></graphml>

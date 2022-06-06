@@ -1,0 +1,19 @@
+﻿data_settings:
+  data_name: Volve production data.xlsx
+  groups_to_drop:
+  - 15/9-F-4
+  path_to_coords: ../data/raw/
+  path_to_raw_data: ../data/raw/
+graph_gettings:
+  feature_name: shap_mean_absolute_value
+logging_settings:
+  name: similarity
+model_settings:
+  date_parameter: DATEPRD
+  group_parameter: NPD_WELL_BORE_NAME
+  hyperparamers_tuning: false
+  random_state: 1
+  target: 15/9-F-15
+  target_parameter: BORE_GAS_VOL
+pipeline_settings:
+  is_calculate: false
